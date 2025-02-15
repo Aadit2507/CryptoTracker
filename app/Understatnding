@@ -1,0 +1,33 @@
+we create a pakages based on the feature
+crypto  pakage for fatching and displaying coins
+presentation p for presenting  anything to user consist of ui viewmodel state
+domain p is inner most isolated pakage used buissness logic ...
+
+
+
+
+
+
+
+
+
+
+
+
+step 1 - creating the pakages based on the feature needed
+step 2 - domain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+network utility
